@@ -1,3 +1,11 @@
+---
+sort: 1
+---
+
 # General
 
-test General
+```
+{% raw %}{% include list.liquid all=true %}{% endraw %}
+```
+
+{% include list.liquid all=true %}
