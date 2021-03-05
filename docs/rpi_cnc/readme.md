@@ -1,3 +1,3 @@
-# Raspberry Pi CNC HAt
+# Raspberry Pi CNC Hat
 
 {% include list.liquid %}
