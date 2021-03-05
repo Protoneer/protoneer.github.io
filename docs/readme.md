@@ -1,5 +1,3 @@
 # Products
 
-
-
 {% include list.liquid %}
