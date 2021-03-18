@@ -3,4 +3,4 @@ sort: 1
 ---
 # Documentation
 
-{% include list.liquid %}
+{% include list.liquid all=true %}
