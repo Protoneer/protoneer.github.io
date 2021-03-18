@@ -3,8 +3,12 @@ sort: 1
 ---
 # Documentation
 
-| ![Octocat](../images/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
-| ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
-| ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
+## Products
+
+| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
+| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
+| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
+
+## Index
 
 {% include list.liquid all=true %}
