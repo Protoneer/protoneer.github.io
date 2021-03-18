@@ -5,11 +5,10 @@ sort: 1
 
 ## Products
 
-| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
-| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
-| ![Octocat](../images/octocat.png) | ![Octocat](../images/octocat.png) |
+| [![Octocat](../images/octocat.png)](https://github.com) | [![Octocat](../images/octocat.png)](https://github.com) |
+| [![Octocat](../images/octocat.png)](https://github.com) | [![Octocat](../images/octocat.png)](https://github.com) |
 
-[![Octocat](../images/octocat.png)](https://github.com)
+
 
 ## Index
 
