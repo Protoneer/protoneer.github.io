@@ -5,7 +5,7 @@ sort: 1
 
 | What    | Follows  |
 | ------- | -------- |
-| ![Octocat](images/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
+| ![Octocat](../images/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
 | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
 | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
 
